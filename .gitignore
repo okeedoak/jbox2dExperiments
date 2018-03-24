@@ -228,3 +228,5 @@ gradle-app.setting
 # FXGL files
 /logs
 /system
+
+!jbox2d-library-2.2.1.1.jar

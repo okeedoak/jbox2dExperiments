@@ -3,6 +3,8 @@ Various implementations of JBox2D tutorials
 
 DrawLinesDropBalls: Taken from http://thisiswhatiknowabout.blogspot.com/2011/11/hello-world-jbox2d-with-javafx-20.html
 
+-------------------------------------------------------------------------------------------------------------------------
+
 jbox2d: https://github.com/jbox2d/jbox2d
 
 jbox2d Copyright (c) 2014, Daniel Murphy
